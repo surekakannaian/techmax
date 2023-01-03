@@ -1,0 +1,57 @@
+
+.new .card{
+    margin-left: 4%;
+    box-shadow: 2px -2px 10px rgb(180, 180, 180);
+}
+.new .card:hover{
+    background-color: rgb(49, 32, 199);
+    color: white;
+}
+.web-solution{
+    background-color: rgb(223, 220, 220);
+}
+.content{
+    width: 90%;
+}
+.button{
+    background-color: #ffffff;
+    border-left: 1px solid blue;
+  padding: 5px 3px 5px 3px; 
+  border-radius: 0 0 8px 0;
+  box-shadow: 2px -2px 7px rgb(180, 180, 180);
+}
+.business{
+    background-color: #ffffff;
+}
+.count{
+    background: linear-gradient(rgb(72, 72, 128),rgb(62, 62, 233),rgb(72, 72, 128));
+    color: #ffffff;
+}
+.client .card{
+    background-color:rgb(223, 220, 220) ;
+}
+.client img{
+    width: 20%;
+}
+.blog a{
+    text-decoration: none;
+}
+.blog .card{
+    box-shadow: 2px -2px 10px rgb(180, 180, 180);  
+ 
+}
+.blog .card img{
+    border-radius: 5px 5px 0 0;
+}
+footer a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.small{
+    background-color: rgb(12, 12, 61);
+    color: #ffffff;
+}
+.count h3{
+    border-bottom: 1px solid #ffffff;
+    padding-bottom: 5px;
+}
